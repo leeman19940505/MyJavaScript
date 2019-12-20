@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script type="text/javascript">
+        //es5提供了JSON对象
+
+        //parse -> 字符串转json 只支持标准格式的json
+        /*text: 必须是一个正确的string格式的json
+        reviver: function(key, value) key:解析的json的key value:解析的json的value
+        JSON.parse(text:string, reviver?:(key:any, value:any) => any)*/
+        var stringParse = '{"a":10}'
+        var jsonParse = JSON.parse(stringParse);
+        console.log(jsonParse);
+
+        var stringParse1 = '{"a":10, "b":20, "c":30}'
+        var jsonParse1 = JSON.parse(stringParse1, function (key, value) {
+            console.log(key, value);
+        });
+
+        //stringfy -> json对象转字符串 输出标准格式的json
+        /*key:json对象
+          replace:
+          JSON.stringify(value:any, replace?:(key:string, value:any) => any, space ?: string | number)*/
+        var jsonStringify = {a:20};
+        var stringStringify = JSON.stringify(jsonStringify);
+        console.log(stringStringify);
+
+        var jsosStringify1 = {a:20, b:30, c:40}
+        var stringStringify1 = JSON.stringify(jsosStringify1, function (key, value) {
+            if(value == 30)
+            {
+                return undefined;
+            }
+            else
+            {
+                return value;
+            }
+        });
+        console.log(stringStringify1);
+    </script>
+</body>
+</html>

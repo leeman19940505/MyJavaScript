@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="" />
+    <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/ES5Test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/ESTest1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/ES6Test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/ES6Test1.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -32,8 +44,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="308" />
-    <option name="y" value="53" />
+    <option name="x" value="566" />
+    <option name="y" value="69" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -42,22 +54,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
-              <item name="EcmaScript" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -75,6 +71,42 @@
               <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
               <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
               <item name="Test1" type="cbb8eebc:String" user="Test1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
+              <item name="EcmaScript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
+              <item name="EcmaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
+              <item name="EcmaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5" type="462c0819:PsiDirectoryNode" />
+              <item name="JsonTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
+              <item name="EcmaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="ES5" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,6 +150,11 @@
       <workItem from="1576661698255" duration="718000" />
       <workItem from="1576734451697" duration="2593000" />
       <workItem from="1576808213877" duration="110000" />
+      <workItem from="1576808415138" duration="1692000" />
+      <workItem from="1576820088296" duration="663000" />
+      <workItem from="1576820924775" duration="246000" />
+      <workItem from="1576821179359" duration="20000" />
+      <workItem from="1576821204686" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576661650566</created>
@@ -140,14 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576808243328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1576808454178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576808454178</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3895000" />
+    <option name="totallyTimeSpent" value="6563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="308" y="53" width="1400" height="1000" extended-state="0" />
+    <frame x="761" y="96" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -163,10 +207,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
