@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="">
+    <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="Default">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/ES5Test1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ES5Test1/ESTest1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/ES6Test1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcmaScript/ES6/ES6Test1/ES6Test1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,7 +16,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="JsonTest2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="619">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,6 +35,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/JavaScript/Test1/Test1.js" />
+        <option value="$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html" />
       </list>
     </option>
   </component>
@@ -44,9 +46,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="566" />
-    <option name="y" value="69" />
-    <option name="width" value="1400" />
+    <option name="x" value="436" />
+    <option name="width" value="1343" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -54,28 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
-              <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
-              <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
-              <item name="Test1" type="cbb8eebc:String" user="Test1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,6 +91,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
+              <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="WebStormGitHubProject" type="cbb8eebc:String" user="WebStormGitHubProject" />
+              <item name="JavaScript" type="cbb8eebc:String" user="JavaScript" />
+              <item name="Test1" type="cbb8eebc:String" user="Test1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,6 +136,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="JsonTest2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WebStormGitHubProject/EcmaScript/ES5/JsonTest/JsonTest2.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.JsonTest2.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -155,6 +164,7 @@
       <workItem from="1576820924775" duration="246000" />
       <workItem from="1576821179359" duration="20000" />
       <workItem from="1576821204686" duration="47000" />
+      <workItem from="1576825628076" duration="808000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576661650566</created>
@@ -184,29 +194,40 @@
       <option name="project" value="LOCAL" />
       <updated>1576808454178</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Default">
+      <created>1576825678706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576825678706</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6563000" />
+    <option name="totallyTimeSpent" value="7371000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="96" width="1400" height="1000" extended-state="0" />
+    <frame x="408" y="56" width="1343" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26073852" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="消息" visible="true" weight="0.037078653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="运行" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -221,6 +242,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Default" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

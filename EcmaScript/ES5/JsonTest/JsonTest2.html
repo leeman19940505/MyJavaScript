@@ -10,7 +10,7 @@
 
         //parse -> 字符串转json 只支持标准格式的json
         /*text: 必须是一个正确的string格式的json
-        reviver: function(key, value) key:解析的json的key value:解析的json的value
+        reviver: function(key, value) key:解析的json的key value:解析的json的value (转化后传入?)
         JSON.parse(text:string, reviver?:(key:any, value:any) => any)*/
         var stringParse = '{"a":10}'
         var jsonParse = JSON.parse(stringParse);
@@ -23,7 +23,8 @@
 
         //stringfy -> json对象转字符串 输出标准格式的json
         /*key:json对象
-          replace:
+          replacer: 过滤 传入每个成员的键和值 使用返回值而不是原始值 (转化前传入?)
+          space: 文本添加缩进、空格和换行符 如果 space 是一个数字，则返回值文本在每个级别缩进指定数目的空格
           JSON.stringify(value:any, replace?:(key:string, value:any) => any, space ?: string | number)*/
         var jsonStringify = {a:20};
         var stringStringify = JSON.stringify(jsonStringify);
@@ -39,7 +40,8 @@
             {
                 return value;
             }
-        });
+        }, 1);
+        JSON.stringify()
         console.log(stringStringify1);
     </script>
 </body>
