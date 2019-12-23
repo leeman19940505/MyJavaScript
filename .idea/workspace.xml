@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="Default">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file leaf-file-name="JsonTest2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="494">
+              <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
             </state>
           </provider>
         </entry>
@@ -116,6 +115,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -164,7 +164,7 @@
       <workItem from="1576820924775" duration="246000" />
       <workItem from="1576821179359" duration="20000" />
       <workItem from="1576821204686" duration="47000" />
-      <workItem from="1576825628076" duration="808000" />
+      <workItem from="1576825628076" duration="1471000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576661650566</created>
@@ -201,23 +201,30 @@
       <option name="project" value="LOCAL" />
       <updated>1576825678706</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Default">
+      <created>1576826473455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576826473455</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7371000" />
+    <option name="totallyTimeSpent" value="8034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="408" y="56" width="1343" height="1000" extended-state="0" />
+    <frame x="436" y="0" width="1343" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26073852" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26073852" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="调试" />
+      <window_info anchor="bottom" id="调试" weight="0.32921347" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="消息" visible="true" weight="0.037078653" />
+      <window_info anchor="bottom" id="消息" weight="0.037078653" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="运行" />
@@ -248,8 +255,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="494">
+          <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
         </state>
       </provider>
     </entry>
