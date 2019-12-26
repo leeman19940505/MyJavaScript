@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="Default">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcmaScript/ES5/ObjectTest/ObjectTest1.html" beforeDir="false" afterPath="$PROJECT_DIR$/EcmaScript/ES5/ObjectTest/ObjectTest1.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JsonTest2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JsonTest2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="494">
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ObjectTest1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ObjectTest1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/ObjectTest/ObjectTest1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="190">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -62,9 +62,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="414" />
-    <option name="y" value="51" />
-    <option name="width" value="1343" />
+    <option name="x" value="821" />
+    <option name="y" value="29" />
+    <option name="width" value="1120" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -185,7 +185,7 @@
       <workItem from="1576825628076" duration="1471000" />
       <workItem from="1577064855232" duration="662000" />
       <workItem from="1577082041605" duration="126000" />
-      <workItem from="1577325550197" duration="1296000" />
+      <workItem from="1577325550197" duration="2694000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576661650566</created>
@@ -236,17 +236,24 @@
       <option name="project" value="LOCAL" />
       <updated>1577064918321</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Default">
+      <created>1577328381191</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1577328381191</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10118000" />
+    <option name="totallyTimeSpent" value="11516000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="414" y="51" width="1343" height="1000" extended-state="1" />
+    <frame x="821" y="29" width="1120" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2605364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31700554" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -316,17 +323,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/ObjectTest/ObjectTest1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/JsonTest/JsonTest2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="73" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EcmaScript/ES5/ObjectTest/ObjectTest1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>

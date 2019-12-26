@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script type="text/javascript">
+        //方法继承
+        var o = {
+            a: 2,
+            m: function () {
+                return this.a + 1;
+            }
+        }
+
+        //当调用o.m时, 'this'指向了o
+        console.log(o.m()); // 3
+
+        //p是一个继承自o的对象
+        var p = Object.create(o);
+
+    </script>
+</body>
+</html>
