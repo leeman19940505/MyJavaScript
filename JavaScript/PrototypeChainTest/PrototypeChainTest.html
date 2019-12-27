@@ -8,6 +8,73 @@
     <!--原型链 -->
     <script type="text/javascript">
         /*1.使用语法结构创建的对象*/
+        var o = {a: 1};
+        console.log(o);
+        console.log(o.__proto__);
+        //o这个对象继承了Object.prototype上的所有属性
+        //o自身没有名为hasOwnProterty的属性
+        //hasOwnProperty是Object.prototype的属性
+        //因此 o继承了Object.prototype的hasOwnProperty
+        //Object.prototype的原型为null
+
+        //原型链 o ---> Object.prototype ---> null
+
+        var a = ["yo", "whaup", "?"];
+        console.log(a);
+        console.log(a.__proto__);
+        // 数组都继承于Array.prototype
+        // Array.prototype中包含indexOf, foreach等方法
+
+        //原型链 a ---> Array.prototype ---> Object.prototype ---> null
+
+        function f() {
+            return 2;
+        }
+
+        //函数都继承于Function.prototype
+        //Function.prototype中包含call, bind等方法
+
+        //原型链 f ---> Function.prototype ---> Object.prototype ---> null
+
+        /*2.使用构造器创建的对象*/
+        /*在 JavaScript 中，构造器其实就是一个普通的函数。
+        当使用 new 操作符 来作用这个函数时，它就可以被称为构造方法（构造函数）。*/
+        function Graph() {
+            this.vertices = [];
+            this.edges = [];
+        }
+
+        Graph.prototype = {
+            addVertex: function (v) {
+                this.vertices.push(v);
+            }
+        }
+
+        console.log(Graph);
+        console.log(Graph.prototype);
+
+        var g = new Graph();
+        // g 是生成的对象，他的自身属性有 'vertices' 和 'edges'。
+        // 在 g 被实例化时，g.[[Prototype]] 指向了 Graph.prototype。
+
+        /*3.使用Object.create()创建的对象*/
+        /*ECMAScript 5 中引入了一个新方法：Object.create()。可以调用这个方法来创建一个新对象。
+        新对象的原型就是调用 create 方法时传入的第一个参数：*/
+        var a = {a:1};
+        // a ---> Object.prototype ---> null
+
+        var b = Object.create(a);
+        // b ---> a ---> Object.prototype ---> null
+        console.log(b.a);
+
+        var c = Object.create(b);
+        // c ---> b ---> a ---> Object.prototype ---> null
+
+        var d = Object.create(null);
+        //d ---> null
+        console.log(d.hasOwnProperty); //undefined 因为d没有继承Object.prototype
+
+        
     </script>
 </body>
 </html>

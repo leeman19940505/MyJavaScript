@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/Prototype.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/inheritance-test/FunctionInheritanceTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/inheritance-test/FunctionInheritanceTest.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,11 +28,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="PropertyInheritanceTest.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/inheritance-test/PropertyInheritanceTest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="PrototypeTest.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+            <state relative-caret-position="418">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -40,8 +49,17 @@
       <file leaf-file-name="PrototypeChainTest.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="700">
+              <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Prototype.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/Prototype.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -66,6 +84,8 @@
         <option value="$PROJECT_DIR$/EcmaScript/ES5/ObjectTest/ObjectTest1.html" />
         <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/inheritance-test/FunctionInheritanceTest.html" />
         <option value="$PROJECT_DIR$/JavaScript/prototype-test/PrototypeTest.html" />
+        <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html" />
+        <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/Prototype.html" />
         <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" />
       </list>
     </option>
@@ -77,9 +97,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="830" />
-    <option name="y" value="19" />
-    <option name="width" value="1097" />
+    <option name="x" value="655" />
+    <option name="y" value="25" />
+    <option name="width" value="1250" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
@@ -194,7 +214,7 @@
       <workItem from="1577082041605" duration="126000" />
       <workItem from="1577325550197" duration="2694000" />
       <workItem from="1577333134296" duration="78000" />
-      <workItem from="1577409543741" duration="3068000" />
+      <workItem from="1577409543741" duration="7388000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576661650566</created>
@@ -259,17 +279,24 @@
       <option name="project" value="LOCAL" />
       <updated>1577333182356</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Default">
+      <created>1577413029839</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1577413029839</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14662000" />
+    <option name="totallyTimeSpent" value="18982000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="830" y="19" width="1097" height="1000" extended-state="0" />
+    <frame x="655" y="25" width="1250" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.305949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26732674" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -388,17 +415,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/inheritance-test/PropertyInheritanceTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/Prototype.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
+        <state relative-caret-position="418">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="700">
+          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
         </state>
       </provider>
     </entry>
