@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7bc4784-7211-4c06-b9f2-2458e572eb00" name="Default" comment="Default">
+      <change afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainExtersion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainPerforms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/Prototype.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/aboutPrototype.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainTest.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,19 +48,49 @@
         </entry>
       </file>
       <file leaf-file-name="PrototypeChainTest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html">
+        <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1010">
-              <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+            <state relative-caret-position="662">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="aboutPrototype.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PrototypeChainPerforms.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainPerforms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrototypeChainExtersion.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainExtersion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aboutPrototype.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/aboutPrototype.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="247">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -86,6 +118,10 @@
         <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html" />
         <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/Prototype.html" />
         <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html" />
+        <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainTest1.html" />
+        <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainPerforms.html" />
+        <option value="$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainExtersion.html" />
+        <option value="$PROJECT_DIR$/JavaScript/note.md" />
       </list>
     </option>
   </component>
@@ -96,8 +132,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="40" />
+    <option name="x" value="468" />
+    <option name="y" value="65" />
     <option name="width" value="1250" />
     <option name="height" value="1000" />
   </component>
@@ -117,12 +153,6 @@
               <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
               <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebStormGitHubProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebStormGitHubProject" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
-              <item name="PrototypeChainTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -164,6 +194,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WebStormGitHubProject\JavaScript\PrototypeChainTest\prototypechain-test" />
       <recent name="F:\WebStormGitHubProject\JavaScript\PrototypeChainTest" />
       <recent name="F:\WebStormGitHubProject\JavaScript\prototype-test" />
     </key>
@@ -214,7 +245,7 @@
       <workItem from="1577325550197" duration="2694000" />
       <workItem from="1577333134296" duration="78000" />
       <workItem from="1577409543741" duration="8508000" />
-      <workItem from="1577424903721" duration="610000" />
+      <workItem from="1577424903721" duration="3276000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1576661650566</created>
@@ -293,16 +324,24 @@
       <option name="project" value="LOCAL" />
       <updated>1577418108872</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Default">
+      <created>1577428497403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1577428497403</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20712000" />
+    <option name="totallyTimeSpent" value="23378000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="40" width="1250" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26732674" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19441517" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="调试" order="7" weight="0.32921347" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -365,7 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html">
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1919">
           <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
@@ -463,6 +502,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/aboutPrototype.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeTest.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -470,17 +516,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/PrototypeChainTest.html">
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1010">
-          <caret line="101" column="36" selection-start-line="101" selection-start-column="36" selection-end-line="101" selection-end-column="36" />
+        <state relative-caret-position="662">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/aboutPrototype.html">
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainPerforms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/PrototypeChainTest/prototypechain-test/PrototypeChainExtersion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
