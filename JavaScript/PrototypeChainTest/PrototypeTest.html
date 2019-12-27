@@ -7,7 +7,30 @@
 <body>
     <!--原型-->
     <script type="text/javascript">
+        function doSomething() {}
+        //与声明函数的方式无关 JavaScript中的函数永远有一个默认原型属性 prototype
+        doSomething.prototype.foo = "bar";
+        console.log(doSomething.prototype);
 
+        //获得该函数的一个实例对象 一些属性可以添加到该原型对象
+        //doSomeInstancing中的__proto__是doSomething.prototype
+        var doSomeInstancing = new doSomething();
+        doSomeInstancing.prop = "some value";
+        console.log(doSomeInstancing);
+
+        //访问顺序(doSomeInstancing.value)
+        /*doSomeInstancing.value -> doSomeInstancing.prototype.value ->
+            doSomeInstancing.prototype.prototype.vale -> ... -> 在__proto__的整个原型链被查看之后
+            没有更多的__proto__, 浏览器断言该属性不存在, 并给出属性的值为undefined*/
+        console.log("doSomeInstancing.prop:      " + doSomeInstancing.prop);
+        console.log("doSomeInstancing.foo:       " + doSomeInstancing.foo);
+        console.log("doSomething.prop:           " + doSomething.prop);
+        console.log("doSomething.foo:            " + doSomething.foo);
+        console.log("doSomething.prototype.prop: " + doSomething.prototype.prop);
+        console.log("doSomething.prototype.foo:  " + doSomething.prototype.foo);
+
+        var doSomething1 = function () {}
+        console.log(doSomething1.prototype )
     </script>
 </body>
 </html>

@@ -20,6 +20,8 @@
         //p是一个继承自o的对象
         var p = Object.create(o);
 
+        p.a = 4; //创建p的自身属性"a"
+        console.log(p.m()); // p.a + 1 = 5
     </script>
 </body>
 </html>
